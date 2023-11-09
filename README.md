@@ -26,6 +26,10 @@ Create an AI assistant that chats like Sheldon Cooper from The Big Bang Theory, 
 - Training Loss: 0.8055
 - Validation Loss: 1.8277
 
+- Train Vs Validation graph
+
+    ![train_val](https://github.com/Smit6/Sheldon-AI-Assistant/assets/21207983/753f4eda-492a-4026-a96a-547c467f4233)
+
 
 ### Results
 
